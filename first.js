@@ -1,2 +1,2 @@
 var x= 10;
-print(x);
+alert(x);
